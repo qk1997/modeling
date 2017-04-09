@@ -1,3 +1,4 @@
 # modeling
-math modeling python 
-#1.gsaa退火算法
+math modeling python
+
+gsaa退火算法
